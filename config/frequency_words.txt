@@ -1,5 +1,4 @@
-胖东来
-于东来
+虎扑
 
 DeepSeek
 梁文锋
@@ -18,20 +17,6 @@ DJI
 宇树
 王兴兴
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
 
@@ -72,6 +57,12 @@ sora
 
 claude
 Anthropic
+
+马斯克
+Musk
+Elon Musk
+特斯拉
+Tesla
 
 iphone
 ipad
